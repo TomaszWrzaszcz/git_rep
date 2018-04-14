@@ -1,2 +1,2 @@
 "# git_rep" 
-dupa
+3 zmiana
